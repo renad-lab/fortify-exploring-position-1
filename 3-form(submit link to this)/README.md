@@ -32,4 +32,4 @@ This will allow others to access and view your form directly.
 
 ## Resources
 
-- [Form Design Resource](https://www.sliderrevolution.com/resources/css-forms/)
+- [Form Design Resource]()https://www.sliderrevolution.com/resources/css-forms/
